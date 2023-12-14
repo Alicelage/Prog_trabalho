@@ -1,0 +1,189 @@
+Arquivo de log referente a análise: Número de acidentes por UF no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ESTADOS BRASILEIROS ): dados = ['AC', 'AL', 'AM', 'AP', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MG', 'MS', 'MT', 'PA', 'PB', 'PE', 'PI', 'PR', 'RJ', 'RN', 'RO', 'RR', 'RS', 'SC', 'SE', 'SP', 'TO']
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados = [41221, 13188, 12006, 12197, 117021, 115406, 320042, 295430, 673206, 15783, 2313410, 159434, 29634, 162859, 15839, 72875, 62970, 998278, 106582, 44751, 106475, 22373, 15917, 903803, 5349, 1155467, 43613]
+Arquivo de log referente a análise: Número de acidentes por UF no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ESTADOS BRASILEIROS ): dados = ['AC', 'AL', 'AM', 'AP', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MG', 'MS', 'MT', 'PA', 'PB', 'PE', 'PI', 'PR', 'RJ', 'RN', 'RO', 'RR', 'RS', 'SC', 'SE', 'SP', 'TO']
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados = [41221, 13188, 12006, 12197, 117021, 115406, 320042, 295430, 673206, 15783, 2313410, 159434, 29634, 162859, 15839, 72875, 62970, 998278, 106582, 44751, 106475, 22373, 15917, 903803, 5349, 1155467, 43613]
+Arquivo de log referente a análise: Média de acidentes por REGIÃO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( DIVISÃO REGIONAL DO BRASIL ): dados = ['NORTE', 'NORDESTE', 'CENTRO-OESTE', 'SUDESTE', 'SUL']
+Para eixo Y ( MÉDIA DE ACIDENTES DE TRÂNSITO ): dados = [57249.142857142855, 57229.125, 295579.0, 967722.25, 639332.6666666666]
+Arquivo de log referente a análise: Número de acidentes por ANO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ANOS DE 2018 A 2023 ): dados = ['2018', '2019', '2020', '2021', '2022', '2023']
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados = [1094388, 1579701, 1445330, 1634026, 1646256, 435428]
+Arquivo de log referente a análise: Número de acidentes por FAIXA ETÁRIA no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( FAIXA ETÁRIA DAS VÍTIMAS ): dados = ['ENTRE 1 E 17 ANOS', 'ENTRE 18 E 24 ANOS', 'ENTRE 25 E 29 ANOS', 'ENTRE 30 E 34 ANOS', 'ENTRE 35 E 39 ANOS', 'ENTRE 40 E 44 ANOS', 'ENTRE 45 E 49 ANOS', 'ENTRE 50 E 54 ANOS', 'ENTRE 55 E 59 ANOS', 'ENTRE 60 E 64 ANOS', 'ENTRE 65 E 69 ANOS', 'ENTRE 70 E 74 ANOS', 'ENTRE 75 E 79 ANOS', 'MAIOR QUE 80 ANOS', 0]
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados =            faixa_idade  ocorrencia
+0    ENTRE 1 E 17 ANOS       93887
+1   ENTRE 18 E 24 ANOS      762322
+2   ENTRE 25 E 29 ANOS      754745
+3   ENTRE 30 E 34 ANOS      766027
+4   ENTRE 35 E 39 ANOS      748752
+5   ENTRE 40 E 44 ANOS      658150
+6   ENTRE 45 E 49 ANOS      503861
+7   ENTRE 50 E 54 ANOS      401438
+8   ENTRE 55 E 59 ANOS      314057
+9   ENTRE 60 E 64 ANOS      218436
+10  ENTRE 65 E 69 ANOS      139257
+11  ENTRE 70 E 74 ANOS       80724
+12  ENTRE 75 E 79 ANOS       42016
+13   MAIOR QUE 80 ANOS       28708
+14                   0           0
+Arquivo de log referente a análise: Número de acidentes por CATEGORIA DE TRÁFEGO E GÊNERO  intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( CATEGORIAS ): dados = ['Feminino Motorista', 'Feminino Passageiro', 'Feminino Pedestre', 'Masculino Motorista', 'Masculino Passageiro', 'Masculino Pedestre']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [20.85, 58.05, 38.7, 68.43, 41.03, 59.47]
+Arquivo de log referente a análise: Número de acidentes por GÊNERO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( GÊNERO ): dados = ['FEMININO', 'MASCULINO']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [22.84, 63.23]
+Arquivo de log referente a análise: Número de acidentes pelo envolvimento com ÁLCOOL por ano no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ANOS ): dados = ['2018', '2019', '2020', '2021', '2022', '2023']
+Para eixo Y ( ACIDENTES DE TRÂNSITO PELA PRESENÇA DE ÁLCOOL ): dados = [64975, 71563, 49705, 249825, 397247, 157762]
+Arquivo de log referente a análise: Número de óbitos por número de acidentes no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ANOS ): dados = ['2018', '2019', '2020', '2021', '2022', '2023']
+Para eixo Y ( ÓBITOS POR ACIDENTES DE TRÂNSITO ): dados = [24605, 25003, 22531, 22406, 20765, 3728]
+Arquivo de log referente a análise: Número de acidentes por CATEGORIA DE VEÍCULO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( CATEGORIA DE VEÍCULO ): dados = ['AUTOMOVEL', 'MOTOCICLETA', 'CAMINHAO', 'ONIBUS', 'BICICLETA', 'DESCONHECIDO']
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados = [2762951, 1074240, 82403, 205847, 285564, 554233]
+Arquivo de log referente a análise: Percentual de acidentes por CATEGORIA DE VEÍCULO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( CATEGORIA DE VEÍCULO ): dados = ['AUTOMOVEL', 'MOTOCICLETA', 'BICICLETA', 'ONIBUS', 'CAMINHAO', 'DESCONHECIDO']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [52.0, 20.18, 1.55, 3.87, 5.37, 10.41]
+Arquivo de log referente a análise: Número de acidentes por UF no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ESTADOS BRASILEIROS ): dados = ['AC', 'AL', 'AM', 'AP', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MG', 'MS', 'MT', 'PA', 'PB', 'PE', 'PI', 'PR', 'RJ', 'RN', 'RO', 'RR', 'RS', 'SC', 'SE', 'SP', 'TO']
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados = [41221, 13188, 12006, 12197, 117021, 115406, 320042, 295430, 673206, 15783, 2313410, 159434, 29634, 162859, 15839, 72875, 62970, 998278, 106582, 44751, 106475, 22373, 15917, 903803, 5349, 1155467, 43613]
+Arquivo de log referente a análise: Média de acidentes por REGIÃO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( DIVISÃO REGIONAL DO BRASIL ): dados = ['NORTE', 'NORDESTE', 'CENTRO-OESTE', 'SUDESTE', 'SUL']
+Para eixo Y ( MÉDIA DE ACIDENTES DE TRÂNSITO ): dados = [57249.142857142855, 57229.125, 295579.0, 967722.25, 639332.6666666666]
+Arquivo de log referente a análise: Número de acidentes por ANO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ANOS DE 2018 A 2023 ): dados = ['2018', '2019', '2020', '2021', '2022', '2023']
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados = [1094388, 1579701, 1445330, 1634026, 1646256, 435428]
+Arquivo de log referente a análise: Número de acidentes por FAIXA ETÁRIA no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( FAIXA ETÁRIA DAS VÍTIMAS ): dados = ['ENTRE 1 E 17 ANOS', 'ENTRE 18 E 24 ANOS', 'ENTRE 25 E 29 ANOS', 'ENTRE 30 E 34 ANOS', 'ENTRE 35 E 39 ANOS', 'ENTRE 40 E 44 ANOS', 'ENTRE 45 E 49 ANOS', 'ENTRE 50 E 54 ANOS', 'ENTRE 55 E 59 ANOS', 'ENTRE 60 E 64 ANOS', 'ENTRE 65 E 69 ANOS', 'ENTRE 70 E 74 ANOS', 'ENTRE 75 E 79 ANOS', 'MAIOR QUE 80 ANOS', 0]
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados =            faixa_idade  ocorrencia
+0    ENTRE 1 E 17 ANOS       93887
+1   ENTRE 18 E 24 ANOS      762322
+2   ENTRE 25 E 29 ANOS      754745
+3   ENTRE 30 E 34 ANOS      766027
+4   ENTRE 35 E 39 ANOS      748752
+5   ENTRE 40 E 44 ANOS      658150
+6   ENTRE 45 E 49 ANOS      503861
+7   ENTRE 50 E 54 ANOS      401438
+8   ENTRE 55 E 59 ANOS      314057
+9   ENTRE 60 E 64 ANOS      218436
+10  ENTRE 65 E 69 ANOS      139257
+11  ENTRE 70 E 74 ANOS       80724
+12  ENTRE 75 E 79 ANOS       42016
+13   MAIOR QUE 80 ANOS       28708
+14                   0           0
+Arquivo de log referente a análise: Número de acidentes por CATEGORIA DE TRÁFEGO E GÊNERO  intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( CATEGORIAS ): dados = ['Feminino Motorista', 'Feminino Passageiro', 'Feminino Pedestre', 'Masculino Motorista', 'Masculino Passageiro', 'Masculino Pedestre']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [20.85, 58.05, 38.7, 68.43, 41.03, 59.47]
+Arquivo de log referente a análise: Número de acidentes por GÊNERO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( GÊNERO ): dados = ['FEMININO', 'MASCULINO']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [22.84, 63.23]
+Arquivo de log referente a análise: Número de acidentes pelo envolvimento com ÁLCOOL por ano no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ANOS ): dados = ['2018', '2019', '2020', '2021', '2022', '2023']
+Para eixo Y ( ACIDENTES DE TRÂNSITO PELA PRESENÇA DE ÁLCOOL ): dados = [64975, 71563, 49705, 249825, 397247, 157762]
+Arquivo de log referente a análise: Número de óbitos por número de acidentes no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ANOS ): dados = ['2018', '2019', '2020', '2021', '2022', '2023']
+Para eixo Y ( ÓBITOS POR ACIDENTES DE TRÂNSITO ): dados = [24605, 25003, 22531, 22406, 20765, 3728]
+Arquivo de log referente a análise: Número de acidentes por CATEGORIA DE VEÍCULO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( CATEGORIA DE VEÍCULO ): dados = ['AUTOMOVEL', 'MOTOCICLETA', 'CAMINHAO', 'ONIBUS', 'BICICLETA', 'DESCONHECIDO']
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados = [2762951, 1074240, 82403, 205847, 285564, 554233]
+Arquivo de log referente a análise: Percentual de acidentes por CATEGORIA DE VEÍCULO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( CATEGORIA DE VEÍCULO ): dados = ['AUTOMOVEL', 'MOTOCICLETA', 'BICICLETA', 'ONIBUS', 'CAMINHAO', 'DESCONHECIDO']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [52.0, 20.18, 1.55, 3.87, 5.37, 10.41]
+Arquivo de log referente a análise: Percentual de acidentes por DIA DA SEMANA no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( DIAS DA SEMANA ): dados = ['DOMINGO', 'SEGUNDA-FEIRA', 'TERÇA-FEIRA', 'QUARTA-FEIRA', 'QUINTA-FEIRA', 'SEXTA-FEIRA', 'SÁBADO']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [12.15, 14.47, 13.77, 14.03, 14.21, 16.26, 15.12]
+Arquivo de log referente a análise: Percentual de acidentes por FASES DO DIA no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( FASES DO DIA ): dados = ['MANHÃ', 'TARDE', 'NOITE', 'MADRUGADA']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [27.84, 37.23, 27.12, 6.71]
+Arquivo de log referente a análise: Número de acidentes por UF no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ESTADOS BRASILEIROS ): dados = ['AC', 'AL', 'AM', 'AP', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MG', 'MS', 'MT', 'PA', 'PB', 'PE', 'PI', 'PR', 'RJ', 'RN', 'RO', 'RR', 'RS', 'SC', 'SE', 'SP', 'TO']
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados = [41221, 13188, 12006, 12197, 117021, 115406, 320042, 295430, 673206, 15783, 2313410, 159434, 29634, 162859, 15839, 72875, 62970, 998278, 106582, 44751, 106475, 22373, 15917, 903803, 5349, 1155467, 43613]
+Arquivo de log referente a análise: Média de acidentes por REGIÃO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( DIVISÃO REGIONAL DO BRASIL ): dados = ['NORTE', 'NORDESTE', 'CENTRO-OESTE', 'SUDESTE', 'SUL']
+Para eixo Y ( MÉDIA DE ACIDENTES DE TRÂNSITO ): dados = [57249.142857142855, 57229.125, 295579.0, 967722.25, 639332.6666666666]
+Arquivo de log referente a análise: Número de acidentes por ANO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ANOS DE 2018 A 2023 ): dados = ['2018', '2019', '2020', '2021', '2022', '2023']
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados = [1094388, 1579701, 1445330, 1634026, 1646256, 435428]
+Arquivo de log referente a análise: Número de acidentes por FAIXA ETÁRIA no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( FAIXA ETÁRIA DAS VÍTIMAS ): dados = ['ENTRE 1 E 17 ANOS', 'ENTRE 18 E 24 ANOS', 'ENTRE 25 E 29 ANOS', 'ENTRE 30 E 34 ANOS', 'ENTRE 35 E 39 ANOS', 'ENTRE 40 E 44 ANOS', 'ENTRE 45 E 49 ANOS', 'ENTRE 50 E 54 ANOS', 'ENTRE 55 E 59 ANOS', 'ENTRE 60 E 64 ANOS', 'ENTRE 65 E 69 ANOS', 'ENTRE 70 E 74 ANOS', 'ENTRE 75 E 79 ANOS', 'MAIOR QUE 80 ANOS', 0]
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados =            faixa_idade  ocorrencia
+0    ENTRE 1 E 17 ANOS       93887
+1   ENTRE 18 E 24 ANOS      762322
+2   ENTRE 25 E 29 ANOS      754745
+3   ENTRE 30 E 34 ANOS      766027
+4   ENTRE 35 E 39 ANOS      748752
+5   ENTRE 40 E 44 ANOS      658150
+6   ENTRE 45 E 49 ANOS      503861
+7   ENTRE 50 E 54 ANOS      401438
+8   ENTRE 55 E 59 ANOS      314057
+9   ENTRE 60 E 64 ANOS      218436
+10  ENTRE 65 E 69 ANOS      139257
+11  ENTRE 70 E 74 ANOS       80724
+12  ENTRE 75 E 79 ANOS       42016
+13   MAIOR QUE 80 ANOS       28708
+14                   0           0
+Arquivo de log referente a análise: Número de acidentes por CATEGORIA DE TRÁFEGO E GÊNERO  intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( CATEGORIAS ): dados = ['Feminino Motorista', 'Feminino Passageiro', 'Feminino Pedestre', 'Masculino Motorista', 'Masculino Passageiro', 'Masculino Pedestre']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [20.85, 58.05, 38.7, 68.43, 41.03, 59.47]
+Arquivo de log referente a análise: Número de acidentes por GÊNERO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( GÊNERO ): dados = ['FEMININO', 'MASCULINO']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [22.84, 63.23]
+Arquivo de log referente a análise: Número de acidentes pelo envolvimento com ÁLCOOL por ano no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ANOS ): dados = ['2018', '2019', '2020', '2021', '2022', '2023']
+Para eixo Y ( ACIDENTES DE TRÂNSITO PELA PRESENÇA DE ÁLCOOL ): dados = [64975, 71563, 49705, 249825, 397247, 157762]
+Arquivo de log referente a análise: Número de óbitos por número de acidentes no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ANOS ): dados = ['2018', '2019', '2020', '2021', '2022', '2023']
+Para eixo Y ( ÓBITOS POR ACIDENTES DE TRÂNSITO ): dados = [24605, 25003, 22531, 22406, 20765, 3728]
+Arquivo de log referente a análise: Percentual de óbitos por ano de acidente de trânsito no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( ANOS ): dados = ['2018', '2019', '2020', '2021', '2022', '2023']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [2.25, 1.58, 1.56, 1.37, 1.26, 0.86]
+Arquivo de log referente a análise: Número de acidentes por CATEGORIA DE VEÍCULO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( CATEGORIA DE VEÍCULO ): dados = ['AUTOMOVEL', 'MOTOCICLETA', 'CAMINHAO', 'ONIBUS', 'BICICLETA', 'DESCONHECIDO']
+Para eixo Y ( ACIDENTES DE TRÂNSITO ): dados = [2762951, 1074240, 82403, 205847, 285564, 554233]
+Arquivo de log referente a análise: Percentual de acidentes por CATEGORIA DE VEÍCULO no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( CATEGORIA DE VEÍCULO ): dados = ['AUTOMOVEL', 'MOTOCICLETA', 'BICICLETA', 'ONIBUS', 'CAMINHAO', 'DESCONHECIDO']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [52.0, 20.18, 1.55, 3.87, 5.37, 10.41]
+Arquivo de log referente a análise: Percentual de acidentes por DIA DA SEMANA no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( DIAS DA SEMANA ): dados = ['DOMINGO', 'SEGUNDA-FEIRA', 'TERÇA-FEIRA', 'QUARTA-FEIRA', 'QUINTA-FEIRA', 'SEXTA-FEIRA', 'SÁBADO']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [12.15, 14.47, 13.77, 14.03, 14.21, 16.26, 15.12]
+Arquivo de log referente a análise: Percentual de acidentes por FASES DO DIA no Brasil intitulado: resultados_analise_dados
+Os dados da análise são:
+Para eixo X ( FASES DO DIA ): dados = ['MANHÃ', 'TARDE', 'NOITE', 'MADRUGADA']
+Para eixo Y ( PERCENTUAL DE ACIDENTES DE TRÂNSITO ): dados = [27.84, 37.23, 27.12, 6.71]
